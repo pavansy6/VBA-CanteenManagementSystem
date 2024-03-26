@@ -38,7 +38,7 @@ Please note that the email system may not work on all systems and environments. 
 ### Payment Feature
 Additionally, our system offers a payment feature that allows users to make payments. When prompted, clicking "Yes" will initiate the payment process. For testing purposes, clicking "No" will simulate the process without making an actual payment.
 
-Please refer to the [Documentation](Documentation.md) for more detailed information on the email system, payment feature, and other functionalities.
+Please refer to the [Documentation](Documentation.pdf) for more detailed information on the email system, payment feature, and other functionalities.
 
 
 This project was collaboratively created and maintained by Naksh Jain Sonigara and Pavan Yadav.
