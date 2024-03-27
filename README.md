@@ -1,8 +1,9 @@
 
 # Canteen Management System Using VBA
 
+The Canteen Management System for **Chikitsak Samuha’s Patkar Varde College** Canteen aims to address the challenges faced by the traditional canteen, including manual order processing and lack of data storage. By automating these processes, the system seeks to improve efficiency, enhance customer experience, and enable robust management system.
 
-The Canteen Management System for **Chikitsak Samuha’s Patkar Varde College** Canteen aims to address the challenges faced by the traditional canteen, including manual order processing and lack of data storage. By automating these processes, the system seeks to improve efficiency, enhance customer experience, and enable robust management system. 
+
 ## Contributors
 
 - [Naksh Jain Sonigara](https://www.linkedin.com/in/naksh-jain-sonigara-16a970215/)
